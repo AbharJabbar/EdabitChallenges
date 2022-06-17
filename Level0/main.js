@@ -102,11 +102,11 @@
 // console.log(withoutFirstCh("Apple"));
 
 //Char to ASCII                                                                   //12
-// const chToASCII = function (chr) {
-//   return chr.charCodeAt(0);
-// };
-// chr = "A";
-// console.log(chToASCII(chr));
+const chToASCII = function (chr) {
+  return chr.charCodeAt(0);
+};
+chr = "A";
+console.log(chToASCII(chr));
 
 //Amazing Edabit                                                                  //13
 // const amazingEdabit = function (string) {
